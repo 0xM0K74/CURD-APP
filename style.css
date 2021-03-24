@@ -1,0 +1,55 @@
+h1,h3{
+    text-align: center;
+}
+.a{
+    position: relative;
+    top: 90px;
+}
+form{
+    text-align: center;
+}
+input{
+    border-radius: 20px;
+    width: 320px;
+    height: 30px;
+}
+.b{
+    background-color: black;
+    width: 1000px;
+    color: white;
+    margin-top: 15px;
+}
+.c{
+    position: relative;
+    top :190px;
+}
+table{
+    
+    margin: auto;
+    border: 1px solid black;
+}
+th,td{
+    border-spacing: 10px;
+    margin: auto;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    width: 250px;
+    height: 30px;
+    text-align: left;
+    margin-right: 0px;
+    margin-left: 0px;
+
+    border-collapse: collapse;
+    border-spacing: none;
+}
+.edit{
+    background-color: green;
+    border-radius: 20px;
+    width: 50px;
+}
+.delete{
+    background-color: red;
+    border-radius: 20px;
+    width: 50px;
+}
